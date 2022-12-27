@@ -2,4 +2,4 @@
 
 포트폴리오 등록하는 사이트
 
-react, bootstrap
+javascript, react, bootstrap
